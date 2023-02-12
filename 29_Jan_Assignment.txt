@@ -1,0 +1,52 @@
+1.who developed python programming langauage 
+ANS: python was created by Guido Van Rossum 
+
+2.which type of programming does Python support?
+ANS: python supporting object-orineted,structured,and functional programming
+
+3.Is Python case sensitive when dealing with identifiers? 
+ANS:Yes it is case sensitive langauage
+
+4.What is the correct extension of the Python file? 
+ANS: .py or .pyi
+
+5. Is Python code compiled or interpreted? 
+ANS:python is an interpreted langauage and not a compiled one 
+
+6.Name a few blocks of code used to define in Python language? 
+ANS: a module, a function body , and a class definition 
+
+7.State a character used to give single-line comments in Python
+ANS:  hash character (#) used to single-line comments in Python
+
+8.Mention functions which can help us to find the version of python that we are currently working on? 
+ANS: sys.version
+
+9.Python supports the creation of anonymous functions at runtime, using a construct called 
+ANS:for creation of anonymous function "lambda function" is used 
+
+10.What does pip stand for python? 
+ANS: PIP-preferred installer program 
+
+11.Mention a few built-in functions in python
+ANS: print(),type(),input(),dir(),max(),sorted()
+
+12.What is the maximum possible length of an identifier in Python? 
+ANS:maximum length of an identifier-79 character
+
+13.What are the benefits of using Python?
+ANS: data science , Web Development , Finance & trading ,Computer Graphics , Basic Game Development
+
+14. How is memory managed in Python?
+ANS:Python uses a portion of the memory for internal use and non-object memory.
+     Another part of the memory is used for Python object such as int, dict, list, etc
+
+15.How to install Python on Windows and set path variables?
+ANS:Right-clicking This PC and going to Properties.
+    Clicking on the Advanced system settings in the menu on the left.
+    Clicking on the Environment Variables button o​n the bottom right.
+    In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+    Clicking on New and entering Python’s install directory.
+
+16. Is indentation required in python? 
+ANS:indentation is mandatory 
